@@ -1,2 +1,2 @@
 # data-visualisation
-Data visualiation tools and techniques, a personal compilation.
+Data visualisation tools and techniques, a personal compilation.
