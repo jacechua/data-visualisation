@@ -1,2 +1,2 @@
 # Visual
-Visual is a personal compilation of tools and techniques for effective data visualisation. 
+Visual is a collection of tools and techniques for effective data visualisation.
