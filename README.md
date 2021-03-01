@@ -1,2 +1,2 @@
-# data-visualisation
-A personal collection of data visualisation tools and techniques. 
+# visualization
+A personal collection of data visualisation tools and techniques.
