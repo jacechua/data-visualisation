@@ -1,2 +1,2 @@
 # visualization
-A personal collection of data visualisation tools and techniques.
+Data visualization tools and techniques to support a narrative.
