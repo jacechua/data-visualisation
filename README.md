@@ -1,2 +1,2 @@
 # data-visualization
-Data visualization tools and techniques to support analysis and writing narratives. 
+Data visualization tools and techniques for analyzing data and writing narratives.
