@@ -1,2 +1,2 @@
-# data-visualisation
-Data visualisation tools and techniques, a personal compilation.
+# Visual
+Visual is a personal compilation of tools and techniques for effective data visualisation. 
